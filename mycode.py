@@ -16,3 +16,6 @@ shutil.copy("sample_top/1.png", "data")
 # dvc push
 
 shutil.copy("sample_top/2.png", "data")
+
+
+shutil.copy("sample_top/3.png", "data")
