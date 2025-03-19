@@ -14,3 +14,5 @@ shutil.copy("sample_top/1.png", "data")
 # dvc add data/                    # you are reposible for versioning insid data folder
 # dvc commit
 # dvc push
+
+shutil.copy("sample_top/2.png", "data")
